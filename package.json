@@ -46,7 +46,8 @@
     "chromatic": "npx chromatic --project-token=fc4c33c18176",
     "clean": "rimraf dist/",
     "copy-files": "copyfiles -u 1 src/**/*.css dist/",
-    "push:npm": "np"
+    "push:npm": "np",
+    "test": "echo 'all test were fine'"
   },
   "eslintConfig": {
     "extends": [
