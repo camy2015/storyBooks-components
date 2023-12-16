@@ -1,6 +1,6 @@
 {
   "name": "cagr-my-storybook",
-  "version": "0.3.0",
+  "version": "1.3.0",
   "private": false,
   "license": "MIT",
   "typings": "dist/index.d.ts",
